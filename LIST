@@ -29,74 +29,6 @@ https://vips-livecdn.fptplay.net/hda2/vtv8hd_vhls.smil/playlist.m3u8?cc
 #EXTINF:-1 tvg-id="vtv9hd" group-title="🇻🇳 | VTV" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv9_1500.stream/chunks_dvr_range-${start}-10800.m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/VTV9_logo_2013_final.svg/450px-VTV9_logo_2013_final.svg.png",VTV9 HD - TH Việt Nam
 https://vips-livecdn.fptplay.net/hda2/vtv9_vhls.smil/playlist.m3u8?cc
 
-#Gói K+ My TV
-
-#EXTINF:-1 group-title="K+MyTV" tvg-id="kkidshd" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b4/Kplus_Kids.png/revision/latest/scale-to-width-down/568?cb=20211011130239&path-prefix=vi",K+ KIDS HD
-
-#EXTINF:-1 group-title="K+MyTV" tvg-id="kcinehd" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b6/Kplus_Cine.png/revision/latest/scale-to-width-down/588?cb=20211011125849&path-prefix=vi",K+ CINE
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://apivmx.mytvnet.vn/tv/license/widevine?vmx_device_id=NzRlYjIwNjMtMjkwZS0zMTY5LTg0ZDMtZGE1ZjRkNTRmMjVj
-http://s2129134.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv339&offset=1
-#EXTINF:-1 group-title="K+MyTV" tvg-id="klifehd" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f1/Kplus_Life.png/revision/latest/scale-to-width-down/524?cb=20211011130056&path-prefix=vi",K+ LIFE
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://apivmx.mytvnet.vn/tv/license/widevine?vmx_device_id=NzRlYjIwNjMtMjkwZS0zMTY5LTg0ZDMtZGE1ZjRkNTRmMjVj
-http://s2129134.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv340&offset=1
-#EXTINF:-1 group-title="K+MyTV" tvg-id="ksport1hd" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/64/Kplus_Sport_1.png/revision/latest/scale-to-width-down/756?cb=20211011130430&path-prefix=vi",K+ SPORT 1
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://apivmx.mytvnet.vn/tv/license/widevine?vmx_device_id=NzRlYjIwNjMtMjkwZS0zMTY5LTg0ZDMtZGE1ZjRkNTRmMjVj
-http://s2129134.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv341&offset=1
-#EXTINF:-1 group-title="K+MyTV" tvg-id="ksport2hd" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b3/Kplus_Sport_2.png/revision/latest/scale-to-width-down/774?cb=20211011130352&path-prefix=vi",K+ SPORT 2
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://apivmx.mytvnet.vn/tv/license/widevine?vmx_device_id=NzRlYjIwNjMtMjkwZS0zMTY5LTg0ZDMtZGE1ZjRkNTRmMjVj
-http://s2129134.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv373&offset=1
-#EXTINF:-1 group-title="K+MyTV" tvg-id="klive1hd" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/cd/K%2B_Live_1.png/revision/latest/scale-to-width-down/1000?cb=20211013135146&path-prefix=vi",K+ LIVE 1
-
-#EXTINF:-1 group-title="K+MyTV" tvg-id="klive2hd" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/1c/K%2B_Live_2.png/revision/latest/scale-to-width-down/1000?cb=20211013135722&path-prefix=vi",K+ LIVE 2
-
-#EXTINF:-1 group-title="K+MyTV" tvg-id="klive3hd" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/6e/K%2B_Live_3.png/revision/latest/scale-to-width-down/1000?cb=20211013135816&path-prefix=vi",K+ LIVE 3
-
-#Gói K+
-
-#EXTINF:0 group-title="K+" tvg-id="ksport1hd" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/cd/Kplus_Sport_1_HD.png/revision/latest/scale-to-width-down/250?cb=20211011130437&path-prefix=vi", K+ Sports 1 HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000018&SessionId=CB5FCF3BAD6F1844&Ticket=C0E743A782EB7132
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://ottlive.akamaized.net/live/prod_kplus_pm_hd_fps/prod_kplus_pm_hd_fps.isml/prod_kplus_pm_hd_fps.mpd
-
-#EXTINF:0 group-title="K+" tvg-id="ksport2hd" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/ca/Kplus_Sport_2_HD.png/revision/latest/scale-to-width-down/250?cb=20211011130347&path-prefix=vi", K+ Sports 2 HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000018&SessionId=CB5FCF3BAD6F1844&Ticket=C0E743A782EB7132
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://ottlive.akamaized.net/live/prod_kplus_pc_hd_fps/prod_kplus_pc_hd_fps.isml/prod_kplus_pc_hd_fps.mpd
-
-#EXTINF:0 group-title="K+" tvg-id="klifehd" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f9/Kplus_Life_HD.png/revision/latest/scale-to-width-down/250?cb=20211011130051&path-prefix=vi", K+ Life HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000018&SessionId=CB5FCF3BAD6F1844&Ticket=C0E743A782EB7132
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://ottlive.akamaized.net/live/prod_kplus_ns_hd_fps/prod_kplus_ns_hd_fps.isml/prod_kplus_ns_hd_fps.mpd
-
-#EXTINF:0 group-title="K+" tvg-id="kcinehd" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/fd/Kplus_Cine_HD.png/revision/latest/scale-to-width-down/250?cb=20211011125856&path-prefix=vi", K+ Cine HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000018&SessionId=CB5FCF3BAD6F1844&Ticket=C0E743A782EB7132
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://ottlive.akamaized.net/live/prod_kplus_1_hd_fps/prod_kplus_1_hd_fps.isml/prod_kplus_1_hd_fps.mpd
-#Gói K test
-#EXTINF: -1 tvg-id = "kcinehd" group-title = "ANH NGUYEN" tvg-logo = "https://cdn.hqth.me/logo/thumbs/85.png", K+ Cine HD
-http://52.231.51.194:1708/live/kcine
-#EXTINF: -1 tvg-id = "klifehd" group-title = "ANH NGUYEN" tvg-logo = "https://cdn.hqth.me/logo/thumbs/86.png", K+ Life HD
-http://52.231.51.194:1708/live/klife
-#EXTINF: -1 tvg-id = "ksport1hd" group-title = "ANH NGUYEN" tvg-logo = "https://cdn.hqth.me/logo/thumbs/87.png", K+ Sports 1 HD
-http://52.231.51.194:1708/live/kthethao1
-#EXTINF: -1 tvg-id = "ksport2hd" group-title = "ANH NGUYEN" tvg-logo = "https://cdn.hqth.me/logo/thumbs/88.png", K+ Sports 2 HD
-http://52.231.51.194:1708/live/kthethao2
-
-#EXTINF:-1 tvg-id="kkidshd" group-title ="ANH NGUYEN" tvg-logo="https://cdn.hqth.me/logo/thumbs/89.png", K+KIDS HD 
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://by.com.vn/khichtv
 
 #Gói THVL
 
@@ -153,7 +85,7 @@ https://tbientv.xyz/channel/?woman#|Referer=http://sctvonline.vn/
 https://livecdn.fptplay.net/sdb/htv1_hls.smil/chunklist_b2500000.m3u8?cc
 #EXTINF:-1 tvg-id="htv2hd" group-title="🇻🇳 | HTV"tvg-logo="https://static.wikia.nocookie.net/logos/images/1/1c/Logo_HTV2_%282008-2009%29.png/revision/latest/scale-to-width-down/340?cb=20181201104829&path-prefix=vi",HTV2 HD - TH TPHCM
 https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTV2-HD-1080p/playlist.m3u8?cc
-#EXTINF:-1 tvg-id="htv3" group-title="🇻🇳 | HTV" tvg-logo="hhttps://i.ibb.co/xjf9yrp/HTV3-cc.webp",HTV3 - TH TPHCM
+#EXTINF:-1 tvg-id="htv3" group-title="🇻🇳 | HTV" tvg-logo="https://i.ibb.co/xjf9yrp/HTV3-cc.webp",HTV3 - TH TPHCM
 https://livecdn.fptplay.net/sdb/htv3_2000.stream/chunklist.m3u8?cc
 #EXTINF:-1 tvg-id="htvkey" group-title="🇻🇳 | HTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/6d/HTV4_HTV_Key.png/revision/latest/scale-to-width-down/340?cb=20201012040751&path-prefix=vi" tvg-chno="24",HTVkey - TH TPHCM
 https://livecdn.fptplay.net/sdb/htv4_hls.smil/chunklist_b2500000.m3u8?cc
@@ -197,7 +129,7 @@ https://vtsstr6.tv24.vn/live/sctv2_HD_new.smil/playlist.m3u8
 https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv3
 #EXTINF:-1 tvg-id="sctv4hd" group-title="🇻🇳 | SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/66.png", SCTV4 HD
 https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv4
-#EXTINF:-1 group-title="SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/67.png", SCTV5 HD - SCJ
+#EXTINF:-1 group-title="🇻🇳 | SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/67.png", SCTV5 HD - SCJ
 https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv5
 #EXTINF:-1 tvg-id="sctv6hd" group-title="🇻🇳 | SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/68.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/film360_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", SCTV6 HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
@@ -208,7 +140,7 @@ https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv7
 https://vtsstr4.tv24.vn/live/SCTV8_SD_new.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="sctv9hd" group-title="🇻🇳 | SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/71.png", SCTV9 HD
 https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv9
-#EXTINF:-1 group-title="SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/72.png", SCTV10
+#EXTINF:-1 group-title="🇻🇳 | SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/72.png", SCTV10
 https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv10
 #EXTINF:-1 tvg-id="sctv11hd" group-title="🇻🇳 | SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/73.png", SCTV11 HD
 https://vtsstr4.tv24.vn/live/SCTVVHNT_HD_new.smil/playlist.m3u8
