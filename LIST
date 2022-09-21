@@ -85,16 +85,16 @@ https://ottlive.akamaized.net/live/prod_kplus_ns_hd_fps/prod_kplus_ns_hd_fps.ism
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://ottlive.akamaized.net/live/prod_kplus_1_hd_fps/prod_kplus_1_hd_fps.isml/prod_kplus_1_hd_fps.mpd
 #Gói K test
-#EXTINF: -1 tvg-id = "kcinehd" group-title = "Khích TV Kẹo" tvg-logo = "https://cdn.hqth.me/logo/thumbs/85.png", K+ Cine HD
+#EXTINF: -1 tvg-id = "kcinehd" group-title = "ANH NGUYEN" tvg-logo = "https://cdn.hqth.me/logo/thumbs/85.png", K+ Cine HD
 http://52.231.51.194:1708/live/kcine
-#EXTINF: -1 tvg-id = "klifehd" group-title = "Khích TV Kẹo" tvg-logo = "https://cdn.hqth.me/logo/thumbs/86.png", K+ Life HD
+#EXTINF: -1 tvg-id = "klifehd" group-title = "ANH NGUYEN" tvg-logo = "https://cdn.hqth.me/logo/thumbs/86.png", K+ Life HD
 http://52.231.51.194:1708/live/klife
-#EXTINF: -1 tvg-id = "ksport1hd" group-title = "Khích TV Kẹo" tvg-logo = "https://cdn.hqth.me/logo/thumbs/87.png", K+ Sports 1 HD
+#EXTINF: -1 tvg-id = "ksport1hd" group-title = "ANH NGUYEN" tvg-logo = "https://cdn.hqth.me/logo/thumbs/87.png", K+ Sports 1 HD
 http://52.231.51.194:1708/live/kthethao1
-#EXTINF: -1 tvg-id = "ksport2hd" group-title = "Kẹo" tvg-logo = "https://cdn.hqth.me/logo/thumbs/88.png", K+ Sports 2 HD
+#EXTINF: -1 tvg-id = "ksport2hd" group-title = "ANH NGUYEN" tvg-logo = "https://cdn.hqth.me/logo/thumbs/88.png", K+ Sports 2 HD
 http://52.231.51.194:1708/live/kthethao2
 
-#EXTINF:-1 tvg-id="kkidshd" group-title ="K+ khichTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/89.png", K+KIDS HD 
+#EXTINF:-1 tvg-id="kkidshd" group-title ="ANH NGUYEN" tvg-logo="https://cdn.hqth.me/logo/thumbs/89.png", K+KIDS HD 
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://by.com.vn/khichtv
 
