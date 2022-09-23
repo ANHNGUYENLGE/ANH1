@@ -64,6 +64,23 @@ https://hni-fpt-002-livecdn-vthn2-vnd.vieon.vn/b6ffe7292f39fec0fd92797344107565/
 https://sgn-fpt-003-livecdn-vthn2-vnd.vieon.vn/b1d5a5efd0a1205108fd98ca40a2582c/1664009379510/wz/livetv_origin_drm/kplus_phongcach_22_08_2021.smil/manifest.mpd?token=Yjk3NzYwYzUtMjM5Ny1lM2IyLWRhMDgtNjAwYzY5MjIwMDYxfG1vYmlsZV93ZWJ8MGEwOGZmOTMxMDEwYjEyMWUyYWJjOGU2YzdkNzE3NDV8YWUwZTk3ZTItNzJlMi00MDNlLTk1NTAtMWIyMGM0NjgzZDlmfGxpdmV0dnwxQjIwRTV8YTNhMTM2YWFjNGQ0Nzk4YmQ4Yjk4Yjc4YjRiOWUwODI=
 #EXTINF:-1 tvg-logo="" group-title="K+", K+ Sport2 HD
 
+#EXTINF:-1 tvg-id="kcinehd" group-title="😝| K+ FPT" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+CINE HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://code.television4you.xyz/key.php?kid=2761754f661634d49560631198dd3122&key=3617e340b77a76fa1232f4f6360157fd
+http://livecdn.fptplay.net/event/ttlogin/playlist.m3u8
+#EXTINF:-1 tvg-id="klifehd" group-title="😝| K+ FPT" tvg-logo="https://cdn.hqth.me/logo/thumbs/86.png", K+LIFE HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://code.television4you.xyz/key.php?kid=3c02226f8bec3f948d3e05836c410e7e&key=4a93d65f5e7009bcaf573b187e68fd21
+http://livecdn.fptplay.net/event/ttlogin/playlist.m3u8
+#EXTINF:-1 tvg-id="ksport1hd" group-title="😝| K+ FPT" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", K+SPORT1 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://code.television4you.xyz/key.php?kid=1fe5426280a93352b2d7f36ff3422772&key=eb024058f8c54948a124d6239afd783e
+http://livecdn.fptplay.net/event/ttlogin/playlist.m3u8
+#EXTINF:-1 tvg-id="ksport2hd" group-title="😝| K+ FPT" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png", K+SPORT2 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://code.television4you.xyz/key.php?kid=f673aeef24dc3f4ba6437ef3b37cfa92&key=d485c33b5af849911b3b5fc212188098
+http://livecdn.fptplay.net/event/ttlogin/playlist.m3u8
+
 #Gói THVL
 
 #EXTINF:-1 tvg-id="vinhlong1hd" group-title="🇻🇳 | THVL" tvg-logo="https://cdn.hqth.me/logo/thumbs/259.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vinhlong1_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", THVL1 HD
