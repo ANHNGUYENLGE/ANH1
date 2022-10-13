@@ -1,8 +1,7 @@
 
 
-#EXTM3U url-tvg="http://onetv.click/schedule/epg.xml" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1
-
-#Đã update list kênh vào 02/09/2022
+#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/tubien_epg.xml,http://trada.info/epg.xml" tvg-shift=0 m3uautoload=1
+#Đã update list kênh vào 13/10/2022
 
 #Gói VTV
 
@@ -42,40 +41,40 @@ https://livecdn.fptplay.net/hda2/vinhlong3_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vinhlong4hd" group-title="🇻🇳 | THVL" tvg-logo="https://cdn.hqth.me/logo/thumbs/106.png" catchup="append" catchup-days="7" catchup-source="https://api.vthanhtivi.pw/v1/dvr/thvli/thvl4/${start}/${offset}", THVL4 HD
 https://api.vthanhtivi.pw/v1/getlink/mytv_web/429/hd
 
-#Gói BOX
 #EXTINF:-1 group-title="📦|Box" tvg-id="inthebox" tvg-logo="https://i.ibb.co/Wny9G2b/itbox.png", Box Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44
-https://tbientv.xyz/channel/?1662656400bc5b384ce32d8cdef02bc3a139d4cac0a22bb029e8/m3u8
+https://tbtv.us/channel/?1673283600bc00311e5b2a5b457019b32e89cccc8ce305bfc02a/m3u8
 #EXTINF:-1 group-title="📦|Box" tvg-id="boxhits" tvg-logo="https://i.ibb.co/1swj1ws/box-hits.png", Box Hits
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44
-https://tbientv.xyz/channel/?1662656400bh5b384ce32d8cdef02bc3a139d4cac0a22bb029e8/m3u8
+https://tbtv.us/channel/?1673283600bh00311e5b2a5b457019b32e89cccc8ce305bfc02a/m3u8
 #EXTINF:-1 group-title="📦|Box" tvg-id="boxmovie1" tvg-logo="https://i.ibb.co/gFc8c04/BM1-M.png",Box movie¹
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44
-https://tbientv.xyz/channel/?1662656400b5b384ce32d8cdef02bc3a139d4cac0a22bb029e8/m3u8
-#EXTINF:-1 group-title="📦|Box" tvg-id="boxmovie1" tvg-logo="https://i.ibb.co/gFc8c04/BM1-M.png",Box movie¹ˢᶜᵗᵛ
+https://tbtv.us/channel/?1673283600bmv00311e5b2a5b457019b32e89cccc8ce305bfc02a/m3u8
+#EXTINF:-1 group-title="📦|Box" tvg-id="boxmovie1" tvg-logo="https://i.ibb.co/gFc8c04/BM1-M.png",Box movie¹ sctv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44
-https://tbientv.xyz/channel/?boxmovie#|Referer=http://sctvonline.vn/
+https://tbtv.us/channel/?boxmovie_00311e5b2a5b457019b32e89cccc8ce305bfc02a#|Referer=http://sctvonline.vn/
 #EXTINF:-1 group-title="📦|Box" tvg-id="drfithd" tvg-logo="https://i.ibb.co/6t2wTkX/Dr-Fit.png", Dr.Fit
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44
-https://tbientv.xyz/channel/?drfit#|Referer=http://sctvonline.vn/
+https://tbtv.us/channel/?drfit_00311e5b2a5b457019b32e89cccc8ce305bfc02a#|Referer=http://sctvonline.vn/
 #EXTINF:-1 group-title="📦|Box" tvg-id="happykids" tvg-logo="https://i.ibb.co/XkZPwWN/kids.png", Happy Kids
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44
-https://tbientv.xyz/channel/?happykid#|Referer=http://sctvonline.vn/
+https://tbtv.us/channel/?happykid_00311e5b2a5b457019b32e89cccc8ce305bfc02a#|Referer=http://sctvonline.vn/
 #EXTINF:-1 group-title="📦|Box" tvg-id="hollywoodclassics" tvg-logo="https://i.ibb.co/SBChhPr/hollywood.png",Hollywood Classics
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44
-https://tbientv.xyz/channel/?hollywood#|Referer=http://sctvonline.vn/
+https://tbtv.us/channel/?hollywood_00311e5b2a5b457019b32e89cccc8ce305bfc02a#|Referer=http://sctvonline.vn/
 #EXTINF:-1 group-title="📦|Box" tvg-id="planetearthhd" tvg-logo="https://i.ibb.co/zQKzxNn/Planet-Earth.png", Planet Earth
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44
-https://tbientv.xyz/channel/?1662656400pe5b384ce32d8cdef02bc3a139d4cac0a22bb029e8/m3u8
+https://tbtv.us/channel/?1673283600pe00311e5b2a5b457019b32e89cccc8ce305bfc02a/m3u8
 #EXTINF:-1 group-title="📦|Box" tvg-id="musicbox" tvg-logo="https://i.ibb.co/Z17szpD/Box-Music-cc.webp", Music Box
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44
-https://tbientv.xyz/channel/?boxmusic#|Referer=http://sctvonline.vn/
+https://tbtv.us/channel/?boxmusic_00311e5b2a5b457019b32e89cccc8ce305bfc02a#|Referer=http://sctvonline.vn/
 #EXTINF:-1 group-title="📦|Box" tvg-id="man" tvg-logo="https://i.ibb.co/HzMBHnp/man.png",Man
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44
-https://tbientv.xyz/channel/?1662656400m5b384ce32d8cdef02bc3a139d4cac0a22bb029e8/m3u8
+https://tbtv.us/channel/?1673283600m00311e5b2a5b457019b32e89cccc8ce305bfc02a/m3u8
 #EXTINF:-1 group-title="📦|Box" tvg-id="woman" tvg-logo="https://i.ibb.co/CBSf3yt/Woman.png",Woman
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44
-https://tbientv.xyz/channel/?woman#|Referer=http://sctvonline.vn/
+https://tbtv.us/channel/?woman_00311e5b2a5b457019b32e89cccc8ce305bfc02a#|Referer=http://sctvonline.vn/
+
 
 #Gói HTV
 
