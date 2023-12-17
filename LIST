@@ -2,25 +2,38 @@
 #Đã update list kênh vào 26/05/2023
 #Vui lòng ko sao chép link nếu ko có sự cho phép
 #Goi VTV
-#EXTINF:-1 tvg-id="vtv1hd" group-title="❤| VTV" group-logo="https://cdn.hqth.me/logo/category/vtv.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png", VTV1
-https://live-ali2.tv360.vn/manifest/VTV1_HD/playlist_1080p.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="❤| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/2.png", VTV2
-https://live-ali2.tv360.vn/manifest/vtv2/playlist_VTV2-1080-3_6M.m3u8
-#EXTINF:-1 tvg-id="vtv3hd" group-title="❤| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png", VTV3
-http://live.tv360.vn/manifest/VTV3/playlist_1080p-5M.m3u8
-#EXTINF:-1 tvg-id="vtv4hd" group-title="❤| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/4.png", VTV4
-https://code.vthanhtivi.pw/getlink/vieon/vtv4-hd/playlist.m3u8
-#EXTINF:-1 tvg-id="vtv5hd" group-title="❤| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png", VTV5
-https://live-ali2.tv360.vn/manifest/VTV5_HD_50fps/playlist_VTV5-HD-50fps-1080P-65M.m3u8
-#EXTINF:-1 tvg-id="vtv5hdtnb" group-title="❤| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/6.png", VTV5 Tây Nam Bộ
-https://live-ali2.tv360.vn/manifest/VTV5-TNB/playlist_1080p.m3u8
-#EXTINF:-1 tvg-id="vtv5hdtn" group-title="❤| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/7.png", VTV5 Tây Nguyên
-https://live-ali2.tv360.vn/manifest/VTV5_Tay_Nguyen_HD/playlist_1080p.m3u8
-#EXTINF:-1 tvg-id="vtv7hd" group-title="❤| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/9.png", VTV7
-https://code.vthanhtivi.pw/getlink/vieon/vtv7-hd/playlist.m3u8
-#EXTINF:-1 tvg-id="vtv8hd" group-title="❤| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/10.png", VTV8
-https://code.vthanhtivi.pw/getlink/vieon/vtv8-hd/playlist.m3u8
-#EXTINF:-1 tvg-id="vtv9hd" group-title="❤| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/11.png", VTV9
-https://code.vthanhtivi.pw/getlink/vieon/vtv9-hd/playlist.m3u8
-#EXTINF:-1 tvg-id="vtv6hd" group-title="❤| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/8.png", VTV Cần Thơ
-https://live-ali2.tv360.vn/manifest/VTV6_HD/playlist_1080p.m3u8
+#-*--VTV-*--#
+#EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" group-logo="https://cdn.antmediatv.xyz/group/VTV.png" tvg-logo="https://cdn.antmediatv.xyz/1.png" , VTV1
+#EXTVLCOPT:http-user-agent=ANTmedia
+https://code.antmediatv.xyz/getplay/ac5af703cee41d7cd1c97079ccb88f6ecfbaa2ed3d222cc476d58b802802e6467c/mytv/210/hd.m3u8
+#EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://cdn.antmediatv.xyz/2.png" , VTV2
+#EXTVLCOPT:http-user-agent=ANTmedia
+https://code.antmediatv.xyz/getplay/ac5af703cee41d7cd1c97079ccb88f6ecfbaa2ed3d222cc476d58b802802e6467c/mytv/377/hd.m3u8
+#EXTINF:-1 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://cdn.antmediatv.xyz/3.png" , VTV3
+#EXTVLCOPT:http-user-agent=ANTmedia
+https://code.antmediatv.xyz/getplay/ac5af703cee41d7cd1c97079ccb88f6ecfbaa2ed3d222cc476d58b802802e6467c/mytv/211/hd.m3u8
+#EXTINF:-1 tvg-id="vtv4hd" group-title="VTV" tvg-logo="https://cdn.antmediatv.xyz/4.png" , VTV4
+#EXTVLCOPT:http-user-agent=ANTmedia
+https://code.antmediatv.xyz/getplay/ac5af703cee41d7cd1c97079ccb88f6ecfbaa2ed3d222cc476d58b802802e6467c/vieon/vtv4-hd/playlist.m3u8
+#EXTINF:-1 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://cdn.antmediatv.xyz/5.png" , VTV5
+#EXTVLCOPT:http-user-agent=ANTmedia
+https://code.antmediatv.xyz/getplay/ac5af703cee41d7cd1c97079ccb88f6ecfbaa2ed3d222cc476d58b802802e6467c/mytv/379/hd.m3u8
+#EXTINF:-1 tvg-id="vtv5hdtnb" group-title="VTV" tvg-logo="https://cdn.antmediatv.xyz/6.png" , VTV5 Tây Nam Bộ
+#EXTVLCOPT:http-user-agent=ANTmedia
+https://code.antmediatv.xyz/getplay/ac5af703cee41d7cd1c97079ccb88f6ecfbaa2ed3d222cc476d58b802802e6467c/mytv/615/hd.m3u8
+#EXTINF:-1 tvg-id="vtv5hdtn" group-title="VTV" tvg-logo="https://cdn.antmediatv.xyz/7.png" , VTV5 Tây Nguyên
+#EXTVLCOPT:http-user-agent=ANTmedia
+https://code.antmediatv.xyz/getplay/ac5af703cee41d7cd1c97079ccb88f6ecfbaa2ed3d222cc476d58b802802e6467c/tv360/207/2.m3u8
+#EXTINF:-1 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://cdn.antmediatv.xyz/9.png" , VTV7
+#EXTVLCOPT:http-user-agent=ANTmedia
+https://code.antmediatv.xyz/getplay/ac5af703cee41d7cd1c97079ccb88f6ecfbaa2ed3d222cc476d58b802802e6467c/vieon/vtv7-hd/playlist.m3u8
+#EXTINF:-1 tvg-id="vtv8hd" group-title="VTV" tvg-logo="https://cdn.antmediatv.xyz/10.png" , VTV8
+#EXTVLCOPT:http-user-agent=ANTmedia
+https://code.antmediatv.xyz/getplay/ac5af703cee41d7cd1c97079ccb88f6ecfbaa2ed3d222cc476d58b802802e6467c/vieon/vtv8-hd/playlist.m3u8
+#EXTINF:-1 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://cdn.antmediatv.xyz/11.png" , VTV9
+#EXTVLCOPT:http-user-agent=ANTmedia
+https://code.antmediatv.xyz/getplay/ac5af703cee41d7cd1c97079ccb88f6ecfbaa2ed3d222cc476d58b802802e6467c/vieon/vtv9-hd/playlist.m3u8
+#EXTINF:-1 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://cdn.antmediatv.xyz/8.png" , VTV Cần Thơ
+#EXTVLCOPT:http-user-agent=ANTmedia
+https://code.antmediatv.xyz/getplay/ac5af703cee41d7cd1c97079ccb88f6ecfbaa2ed3d222cc476d58b802802e6467c/mytv/212/hd.m3u8
+
