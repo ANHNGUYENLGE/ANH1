@@ -2,38 +2,39 @@
 #Đã update list kênh vào 26/05/2023
 #Vui lòng ko sao chép link nếu ko có sự cho phép
 #Goi VTV
-#-*--VTV-*--#
-#EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" group-logo="https://cdn.antmediatv.xyz/group/VTV.png" tvg-logo="https://cdn.antmediatv.xyz/1.png" , VTV1
-#EXTVLCOPT:http-user-agent=ANTmedia
-https://code.antmediatv.xyz/getplay/ac5af703cee41d7cd1c97079ccb88f6ecfbaa2ed3d222cc476d58b802802e6467c/mytv/210/hd.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://cdn.antmediatv.xyz/2.png" , VTV2
-#EXTVLCOPT:http-user-agent=ANTmedia
-https://code.antmediatv.xyz/getplay/ac5af703cee41d7cd1c97079ccb88f6ecfbaa2ed3d222cc476d58b802802e6467c/mytv/377/hd.m3u8
-#EXTINF:-1 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://cdn.antmediatv.xyz/3.png" , VTV3
-#EXTVLCOPT:http-user-agent=ANTmedia
-https://code.antmediatv.xyz/getplay/ac5af703cee41d7cd1c97079ccb88f6ecfbaa2ed3d222cc476d58b802802e6467c/mytv/211/hd.m3u8
-#EXTINF:-1 tvg-id="vtv4hd" group-title="VTV" tvg-logo="https://cdn.antmediatv.xyz/4.png" , VTV4
-#EXTVLCOPT:http-user-agent=ANTmedia
-https://code.antmediatv.xyz/getplay/ac5af703cee41d7cd1c97079ccb88f6ecfbaa2ed3d222cc476d58b802802e6467c/vieon/vtv4-hd/playlist.m3u8
-#EXTINF:-1 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://cdn.antmediatv.xyz/5.png" , VTV5
-#EXTVLCOPT:http-user-agent=ANTmedia
-https://code.antmediatv.xyz/getplay/ac5af703cee41d7cd1c97079ccb88f6ecfbaa2ed3d222cc476d58b802802e6467c/mytv/379/hd.m3u8
-#EXTINF:-1 tvg-id="vtv5hdtnb" group-title="VTV" tvg-logo="https://cdn.antmediatv.xyz/6.png" , VTV5 Tây Nam Bộ
-#EXTVLCOPT:http-user-agent=ANTmedia
-https://code.antmediatv.xyz/getplay/ac5af703cee41d7cd1c97079ccb88f6ecfbaa2ed3d222cc476d58b802802e6467c/mytv/615/hd.m3u8
-#EXTINF:-1 tvg-id="vtv5hdtn" group-title="VTV" tvg-logo="https://cdn.antmediatv.xyz/7.png" , VTV5 Tây Nguyên
-#EXTVLCOPT:http-user-agent=ANTmedia
-https://code.antmediatv.xyz/getplay/ac5af703cee41d7cd1c97079ccb88f6ecfbaa2ed3d222cc476d58b802802e6467c/tv360/207/2.m3u8
-#EXTINF:-1 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://cdn.antmediatv.xyz/9.png" , VTV7
-#EXTVLCOPT:http-user-agent=ANTmedia
-https://code.antmediatv.xyz/getplay/ac5af703cee41d7cd1c97079ccb88f6ecfbaa2ed3d222cc476d58b802802e6467c/vieon/vtv7-hd/playlist.m3u8
-#EXTINF:-1 tvg-id="vtv8hd" group-title="VTV" tvg-logo="https://cdn.antmediatv.xyz/10.png" , VTV8
-#EXTVLCOPT:http-user-agent=ANTmedia
-https://code.antmediatv.xyz/getplay/ac5af703cee41d7cd1c97079ccb88f6ecfbaa2ed3d222cc476d58b802802e6467c/vieon/vtv8-hd/playlist.m3u8
-#EXTINF:-1 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://cdn.antmediatv.xyz/11.png" , VTV9
-#EXTVLCOPT:http-user-agent=ANTmedia
-https://code.antmediatv.xyz/getplay/ac5af703cee41d7cd1c97079ccb88f6ecfbaa2ed3d222cc476d58b802802e6467c/vieon/vtv9-hd/playlist.m3u8
-#EXTINF:-1 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://cdn.antmediatv.xyz/8.png" , VTV Cần Thơ
-#EXTVLCOPT:http-user-agent=ANTmedia
-https://code.antmediatv.xyz/getplay/ac5af703cee41d7cd1c97079ccb88f6ecfbaa2ed3d222cc476d58b802802e6467c/mytv/212/hd.m3u8
+#-*--VTV--*-#
+
+#EXTINF:-1 tvg-id="vtv1hd" group-title="01.VTV" group-logo="https://yt3.googleusercontent.com/z7ovoHXE5ZGjVfTnTXc5BwkPBufEe1ylUENPUxbPLzvEqhqYhla1NyApg8WOCgbleXRB1e8RlQ=s900-c-k-c0x00ffffff-no-rj" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png" catchup-type="default" catchup-days="2" catchup-source="https://synguyen.net/api/token/463e217baf29e8a7e1b8bee1edcc855c/getlink/mytv/id/210/xemlai/${start}-${offset}", VTV1
+https://synguyen.net/api/token/463e217baf29e8a7e1b8bee1edcc855c/getlink/tv360/id/2
+
+#EXTINF:-1 tvg-id="vtv2hd" group-title="01.VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/2.png" catchup-type="default" catchup-days="2" catchup-source="https://synguyen.net/api/token/463e217baf29e8a7e1b8bee1edcc855c/getlink/mytv/id/377/xemlai/${start}-${offset}", VTV2
+https://synguyen.net/api/token/463e217baf29e8a7e1b8bee1edcc855c/getlink/tv360/id/3
+
+#EXTINF:-1 tvg-id="vtv3hd" group-title="01.VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png" catchup-type="default" catchup-days="2" catchup-source="https://synguyen.net/api/token/463e217baf29e8a7e1b8bee1edcc855c/getlink/mytv/id/211/xemlai/${start}-${offset}", VTV3
+https://synguyen.net/api/token/463e217baf29e8a7e1b8bee1edcc855c/getlink/tv360/id/4
+
+#EXTINF:-1 tvg-id="vtv4hd" group-title="01.VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/4.png" catchup-type="default" catchup-days="2" catchup-source="https://synguyen.net/api/token/463e217baf29e8a7e1b8bee1edcc855c/getlink/mytv/id/378/xemlai/${start}-${offset}", VTV4
+https://synguyen.net/api/token/463e217baf29e8a7e1b8bee1edcc855c/getlink/tv360/id/108
+
+#EXTINF:-1 tvg-id="vtv5hd" group-title="01.VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png" catchup-type="default" catchup-days="2" catchup-source="https://synguyen.net/api/token/463e217baf29e8a7e1b8bee1edcc855c/getlink/mytv/id/379/xemlai/${start}-${offset}", VTV5
+https://synguyen.net/api/token/463e217baf29e8a7e1b8bee1edcc855c/getlink/tv360/id/110
+
+#EXTINF:-1 tvg-id="vtv5hdtnb" group-title="01.VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/6.png" catchup-type="default" catchup-days="2" catchup-source="https://synguyen.net/api/token/463e217baf29e8a7e1b8bee1edcc855c/getlink/fpt/id/vtv5-tay-nam-bo/xemlai/${start}-${offset}", VTV5 Tây Nam Bộ
+https://synguyen.net/api/token/463e217baf29e8a7e1b8bee1edcc855c/getlink/tv360/id/157
+
+#EXTINF:-1 tvg-id="vtv5hdtn" group-title="01.VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/7.png" catchup-type="default" catchup-days="2" catchup-source="https://synguyen.net/api/token/463e217baf29e8a7e1b8bee1edcc855c/getlink/fpt/id/vtv5-tay-nguyen/xemlai/${start}-${offset}", VTV5 Tây Nguyên
+https://synguyen.net/api/token/463e217baf29e8a7e1b8bee1edcc855c/getlink/tv360/id/207
+
+#EXTINF:-1 tvg-id="vtv6hd" group-title="01.VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/8.png" catchup-type="default" catchup-days="2" catchup-source="https://synguyen.net/api/token/463e217baf29e8a7e1b8bee1edcc855c/getlink/mytv/id/212/xemlai/${start}-${offset}", VTV Cần Thơ
+https://synguyen.net/api/token/463e217baf29e8a7e1b8bee1edcc855c/getlink/tv360/id/98
+
+#EXTINF:-1 tvg-id="vtv7hd" group-title="01.VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/9.png" catchup-type="default" catchup-days="2" catchup-source="https://synguyen.net/api/token/463e217baf29e8a7e1b8bee1edcc855c/getlink/mytv/id/459/xemlai/${start}-${offset}", VTV7
+https://synguyen.net/api/token/463e217baf29e8a7e1b8bee1edcc855c/getlink/tv360/id/6
+
+#EXTINF:-1 tvg-id="vtv8hd" group-title="01.VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/10.png" catchup-type="default" catchup-days="2" catchup-source="https://synguyen.net/api/token/463e217baf29e8a7e1b8bee1edcc855c/getlink/mytv/id/380/xemlai/${start}-${offset}", VTV8
+https://synguyen.net/api/token/463e217baf29e8a7e1b8bee1edcc855c/getlink/tv360/id/115
+
+#EXTINF:-1 tvg-id="vtv9hd" group-title="01.VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/11.png" catchup-type="default" catchup-days="2" catchup-source="https://synguyen.net/api/token/463e217baf29e8a7e1b8bee1edcc855c/getlink/mytv/id/381/xemlai/${start}-${offset}", VTV9
+https://synguyen.net/api/token/463e217baf29e8a7e1b8bee1edcc855c/getlink/tv360/id/8
+
 
