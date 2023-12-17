@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/vthanhtivi_epg.xml,http://cdn.hqth.me/vthanhmovies_schedule.xml"
+#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/vthanhtivi_epg.xml,http://cdn.hqth.me/vthanhmovies_schedule.xml" tvg-shift=0 m3uautoload=1
 #Đã update list kênh vào 26/05/2023
 #Vui lòng ko sao chép link nếu ko có sự cho phép
 #Goi VTV
